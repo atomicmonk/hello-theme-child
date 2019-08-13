@@ -1,6 +1,6 @@
-=== Hello Elementor Child ===
+=== Hello ANNO DOMINI ===
 
-Contributors: elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet
+Contributors: elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet, and eventually Brian Eder
 Requires at least: WordPress 4.7
 Tested up to: WordPress 5.2
 Stable tag: 1.0.0
@@ -10,7 +10,7 @@ License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
 
-The Hello Elementor Child Theme is a starter blank child theme for [Hello Elementor](https://wordpress.org/themes/hello-elementor/) theme.
+The Hello ANNO DOMINI Theme is a starter blank child theme for [Hello Elementor](https://wordpress.org/themes/hello-elementor/) theme.
 
 ***Hello Elementor*** is distributed under the terms of the GNU GPL v3 or later.
 
